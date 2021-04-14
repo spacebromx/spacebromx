@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello there! 👋 I'm Alan Medina
 
-<!--
-**spacebromx/spacebromx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer who specializes in the Frontend but enjoys the Backend too. Lately I've been enjoying learning DevOps too.
 
-Here are some ideas to get you started:
+I live in Mexico City 🇲🇽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️[My personal website](https://spacebro.io/) - [Twitter](https://twitter.com/spacebromx)
+
+**Technical Skills**
+
+- 🔥 **Frontend**: React, NextJS, Vue, Nuxt, Redux, RTL, Jest, Enzyme, CSS, BEM, Tailwind
+- ⭐️ **Backend**: Node, Express, Hapi, Prisma
+- ✨ **DevOps**: Docker, AWS, Terraform
+- ⚡️ **Marketing**: SEO (Technical, onpage and offpage), CPA and Content Strategy
+
+**Hobbies**
+- 🎸 **Music**. I play the guitar
+- 🕹 **Videogames**. Love Battlefield and WoW
+- 🖍 **Writing**. I have my own blog
+- 📸 **Photography**. I am learning
+- 📖 **Reading**. Novels and business related are my favorites
+- ☕️**Coffee**. Latte and Pour overs. I drink them every day
