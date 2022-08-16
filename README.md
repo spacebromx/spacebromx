@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Alan Medina
 
-I am a Software Engineer who specializes in the Frontend but enjoys the Backend too. Lately I've been enjoying learning DevOps too.
+I am a Software Engineer who specializes in the Frontend but enjoys the Backend too. Learning is a never ending activity.
 
 I live in Mexico City 🇲🇽
 
